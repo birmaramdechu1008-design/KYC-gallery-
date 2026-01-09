@@ -38,7 +38,7 @@
         "device_id": "f8379615ff6be488",
         "key": "5dr6ujjhg5g",
         "expirydate": "10-01-2026",
-        "Allowoffline": true,
+        "Allowoffline": false,
         "user": "AC Study"
   },
 {
